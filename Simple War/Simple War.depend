@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1709866855 source:d:\pemrogramanlanjut\simple war\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+
